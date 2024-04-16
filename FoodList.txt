@@ -1,0 +1,180 @@
+Modern_Asia Asian 4.7
+H-Market_Food_Court Asian 4.6
+Lazy_Fish Asian 4.6
+Sumatra_Thai_Cuisine Asian 4.6
+Bonefish_Grill Asian 4.5
+China_Garden Asian 4.4
+Wok_In_Wok_Out Asian 4.4 
+A_Asia_Restaurant Asian 4.3
+China_Sea_Restaurant Asian 4.3
+Peking_Gourmet Asian 4.3
+Asian_Cafe Asian 4.2
+Big_Chef_Chinese_Kitchen Asian 4.2
+Beijing_Restaurant Asian 4.2
+Eastern_89 Asian 4.2
+Hunan_Gourmet Asian 4.1
+Chef_Lin_Buffet Asian 4.0
+China_Wok Asian 4.0
+Chopsticks_Express Asian 4.0
+My_Thai_Restaurant Asian 4.0
+Quickway_Japanese_Hibachi Asian 4.0
+Flaming_Grill_&_Buffet Asian 3.9
+Great_Wall Asian 3.9
+Panda_Express Asian 3.9
+Sushiya Asian 3.9 
+Lucky_House Asian 3.7
+Hot_Wok Asian 3.6
+Charley's_Restaurant Asian 3.2
+City_Buffet Asian 3.0
+Taqueria_El_Korita Mexican 5.0
+Azteca_Bar_And_Grill Mexican 4.7
+Cafe_Bueno Mexican 4.6
+Habanero_Tacos_Bar_&_Grill Mexican 4.6
+Las_Tunas_Mexican_Restaurant Mexican 4.6
+Sabor_de_Cuba Mexican 4.5
+Big_Papi's_Real_Good_Tacos Mexican 4.4
+Fajita_Grande Mexican 4.4
+Mariachi_Redtaurant Mexican 4.4
+River_Bar_&_Grill Mexican 4.4
+Santa_Rosa_Restaurant Mexican 4.4
+Agave_137_Tequila_Bar_&_Kitchen Mexican 4.3
+J&V_El_Eden_Restaurant Mexican 4.3
+Pupuseria_La_Cabanita_3 Mexican 4.3
+Plaza_Mexico_Of_Frederick Mexican 4.3
+Taco_Bar_Frederick Mexican 4.3
+Cafe_Rio_Mexican_Grill Mexican 4.2
+Casa_Rico Mexican 4.2
+Los_Amigos_Mexican_Restaurant Mexican 4.2
+Poblano_Grill Mexican 4.2
+California_Tortilla Mexican 4.1
+Moe's_Southwest_Grill Mexican 4.0
+Taco_Bell Mexican 4.0
+Chili's_Grill_&_Bar Mexican 3.9
+Lallo's Mexican 3.9
+Los_Trios_Restaurant Mexican 3.9
+Ana's_Pupuseria Mexican 3.8 
+Pupuseria_La_Cabanita Mexican 3.8
+El_Catrachito_de_Frederick Mexican 3.6
+La_Paz_Mexican_Restaurant Mexican 3.5
+Chipotle_Mexican_Grill Mexican 3.4
+La_Casona_Frederick Mexican 3.2
+Gijo's_International_Cuisine Mexican 3.0
+Tacos_Carrlitos Mexican 3.0
+Mi_Casa_Bar_&_Grill Mexican 2.7
+Frederick_Soups_And_Comfort_Foods American 5.0
+Arepa_Queen American 4.9
+Boxcar_Burgers American 4.8
+Dempseys_Grill American 4.7
+Dutch's_Daughter American 4.7
+Gladchuk_Bros_Restaurant American 4.7
+Maxwell's_Burgers_&_Shakes American 4.7
+Avery's_Maryland_Grill American 4.6
+A.k.a_Friscos_Restaurant American 4.6
+Beef'n_Buns'n_Paradise American 4.6
+Hootch_And_Banter American 4.6
+The_Main_Cup American 4.6
+Monocacy_Crossing_Restaurant American 4.6
+Oscar's_Alehouse(West) American 4.6
+Schroyer's_Tavern_at_Maryland_National_Golf_Club American 4.6
+The_Wine_Kitchen_on_The_Creek American 4.6
+Thacher&Rye American 4.6
+The_Tasting_Room American 4.6
+White_Rabbit_Gastropub American 4.6
+Airways_Inn_Of_Frederick American 4.5
+Bonefish_Grill American 4.5
+Firestone's_Culinary_Travern American 4.5
+JoJo's_Restaurant_&_Tap_House American 4.5
+Wag's_Restaurant American 4.5
+Bob_Evans American 4.0
+Brewr's_Alley American 4.4
+Cafe_661_Restaurant American 4.4
+Madrones American 4.4
+Mariach_Restaurant American 4.4
+Silver_Diner American 4.4
+Callahan's_Seafood_Bar_&_Grill American 4.3
+Firebirds_Wood_Fired_Grill American 4.3
+LongHorn_Steakhouse American 4.3
+Mountain_View_Diner American 4.3
+Outback_Steakhouse American 4.3
+Roy_Rogers American 4.3
+Showroom American 4.3
+Texas_Roadhouse American 4.3
+Checkers American 4.2
+Cellar_Door_Restaurant American 4.2 
+Cracker_Barrel_Old_Country_Store American 4.2 
+Five_Guys American 4.2
+Waffle_House American 4.2
+Glory_Days_Grill American 4.1
+IHOP American 4.1
+Magoo's_Pub_&_Eatery American 4.1
+Ruby_Tuesday American 4.1
+BJ's_Restaurant_&_Brewhouse American 4.0
+Denny's American 4.0
+Red_Horse_Restaurant American 4.0
+TGI_Fridays American 4.0
+Applebee's_Grill+Bar American 3.9
+The_Beacon American 3.7
+Red_Robin_Gourmet_Burgers_And_Brews American 3.8
+Red_Robin American 2.6
+Kesar_By_Shivaani Indian 5.0
+Indian_Wok Indian 4.8
+Padmini's_Pizza_and_Indian_Grill Indian 4.5
+Taj_Mahal_Grill_&_Bar Indian 4.5
+Tulip_Grill Indian 4.5
+Clay_Oven_Restaurant Indian 4.4
+Grace_Of_India Indian 4.4
+Honest_Indian_Vegetarian_Restaurant Indian 4.1
+Bawarchis_Biryanis Indian 4.0
+Ricci_Restaurant Italian 5.0
+Tempo_Di_Pasta Italian 4.9
+Cugino_Forno_Frederick Italian 4.8
+Gladchuk_Bros_Restaurant Italian 4.7
+Juliet's_Italian_Market_and_Cafe Italian 4.7
+Manalu_Italian_Restaurant Italian 4.7
+Rosati's_Pizza Italian 4.7
+Bellisario's_Pizza Italian 4.6
+Cucina_Massi Italian 4.6
+Delizia_Cafe Italian 4.6
+Fratelli's_Italian_&_Seafood Italian 4.6
+Italia_New_York_Pizza Italian 4.6
+Pretzel_&_Pizza_Creations Italian 4.6
+Pistarro's Italian 4.5
+Pasqual's_Italian_Pizza Italian 4.5
+BJ's Italian 4.4
+Forno_Pizzeria Italian 4.4
+Mangia_e_Bevi_Ristorante_Italiano Italian 4.4
+Ledo_Pizza Italian 4.4
+Porto_Restaurant Italian 4.4 
+Capital_Crave Italian 4.3
+Spring_Ridge_New_York_J_&_P_Pizza Italian 4.3
+Spring_Ridge_New_York_J&P_Pizza Italian 4.3
+Brother's_Pizza Italian 4.2
+JR's_Pizza Italian 4.2
+Olive_Garden_Italian_Restaurant Italian 4.2
+Pizza_Blitz Italian 4.2
+Toppings_Pizza_Company Italian 4.2
+Vocelli_Pizza Italian 4.2
+Coal_Fire_Pizza Italian 4.1
+Flamin_Pizza Italian 4.1
+Hero's Italian 4.1
+Paisano's Italian 3.9
+Cicis_Pizza Italian 3.8
+Pizza_Boli's Italian 3.8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
